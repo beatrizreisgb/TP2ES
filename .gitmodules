@@ -4,6 +4,6 @@
 [submodule "atividade-4"]
 	path = atividade-4
 	url = https://github.com/beatrizreisgb/atividade-4.git
-[submodule "demo-ci"]
-	path = demo-ci
-	url = https://github.com/beatrizreisgb/demo-ci.git
+[submodule "atividade-5"]
+	path = atividade-5
+	url = https://github.com/beatrizreisgb/atividade-5.git
